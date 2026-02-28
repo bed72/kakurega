@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bed72.github.io/kakurega/sitemap.xml
